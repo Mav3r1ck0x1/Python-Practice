@@ -1,6 +1,6 @@
 def addition(num):
     solution = num + 1
-    print (solution)
+    print (solution) #For sanity 
     return solution
 
 
